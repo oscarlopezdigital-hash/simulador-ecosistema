@@ -1,0 +1,17 @@
+
+<div class="stats-container">
+  <div class="stat-card">
+    <span class="label">Especies Totales</span>
+    <span class="value">{{ totalSpecies }}</span>
+  </div>
+
+  <div class="stat-card">
+    <span class="label">Población Global</span>
+    <span class="value">{{ totalPopulation | number }}</span>
+  </div>
+
+  <div class="stat-card" *ngFor="let entry of countByType | keyvalue">
+    <span class="label">{{ entry.key }}s</span>
+    <span class="value">{{ entry.value }}</span>
+  </div>
+</div>

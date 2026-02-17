@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\species-form",
+    "\\src\\app\\components\\species-list",
+    "\\src\\app\\components\\statistics",
+    "\\src\\app\\pipes",
+    "\\src\\assets",
+    "\\src\\assets\\fondos"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}

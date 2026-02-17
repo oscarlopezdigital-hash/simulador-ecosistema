@@ -1,0 +1,19 @@
+
+<div class="filter-container">
+  <div class="search-box">
+    <input type="text"
+           (input)="onSearch($event)"
+           placeholder="Buscar especie..."
+           class="search-input">
+  </div>
+
+  <div class="select-box">
+    <label>Filtrar por tipo:</label>
+    <select (change)="onFilter($event)">
+      <option value="Todos">Mostrar Todas</option>
+      <option value="Herbívoro">Herbívoro</option>
+      <option value="Carnívoro">Carnívoro</option>
+      <option value="Planta">Planta</option>
+    </select>
+  </div>
+</div>

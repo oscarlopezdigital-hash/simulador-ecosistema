@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LaboratoriosAngular\\simulador-ecosistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\population-format-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pipes\\population-format-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\filter-species-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pipes\\filter-species-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\conservation-status-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pipes\\conservation-status-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\species-form\\species-form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\filter\\filter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\species-form\\species-form.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\species-list\\species-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\species-list\\species-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\species-list\\species-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\statistics\\statistics.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\statistics\\statistics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\statistics\\statistics.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\models\\species.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\models\\species.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\services\\ecosystem.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\ecosystem.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\species-form\\species-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\filter\\filter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\filter\\filter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LaboratoriosAngular\\simulador-ecosistema\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-17T20:06:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "species-form.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\species-form\\species-form.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.ts",
+              "RelativeToolTip": "src\\app\\components\\species-form\\species-form.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T16:07:45.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "species-form.html",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\species-form\\species-form.html",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.html",
+              "RelativeToolTip": "src\\app\\components\\species-form\\species-form.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T16:21:35.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "filter.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\filter\\filter.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.ts",
+              "RelativeToolTip": "src\\app\\components\\filter\\filter.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T16:48:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conservation-status-pipe.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\conservation-status-pipe.ts",
+              "RelativeDocumentMoniker": "src\\app\\pipes\\conservation-status-pipe.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\conservation-status-pipe.ts",
+              "RelativeToolTip": "src\\app\\pipes\\conservation-status-pipe.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:47:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "filter-species-pipe.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\filter-species-pipe.ts",
+              "RelativeDocumentMoniker": "src\\app\\pipes\\filter-species-pipe.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\filter-species-pipe.ts",
+              "RelativeToolTip": "src\\app\\pipes\\filter-species-pipe.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T19:48:50.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "population-format-pipe.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\population-format-pipe.ts",
+              "RelativeDocumentMoniker": "src\\app\\pipes\\population-format-pipe.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\pipes\\population-format-pipe.ts",
+              "RelativeToolTip": "src\\app\\pipes\\population-format-pipe.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:42:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "species-list.css",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\species-list\\species-list.css",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.css",
+              "RelativeToolTip": "src\\app\\components\\species-list\\species-list.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T16:05:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "species-list.html",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\species-list\\species-list.html",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.html",
+              "RelativeToolTip": "src\\app\\components\\species-list\\species-list.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T15:57:20.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "species-list.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\species-list\\species-list.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-list\\species-list.ts",
+              "RelativeToolTip": "src\\app\\components\\species-list\\species-list.ts",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:50:32.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "statistics.css",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\statistics\\statistics.css",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.css",
+              "RelativeToolTip": "src\\app\\components\\statistics\\statistics.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T19:24:17.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "statistics.html",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\statistics\\statistics.html",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.html",
+              "RelativeToolTip": "src\\app\\components\\statistics\\statistics.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T19:24:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "statistics.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\statistics\\statistics.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\statistics\\statistics.ts",
+              "RelativeToolTip": "src\\app\\components\\statistics\\statistics.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T19:24:26.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "src\\app\\app.html",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.html",
+              "RelativeToolTip": "src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T16:06:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.ts",
+              "RelativeToolTip": "src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:32:15.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:32:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "species.model.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\models\\species.model.ts",
+              "RelativeDocumentMoniker": "src\\app\\models\\species.model.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\models\\species.model.ts",
+              "RelativeToolTip": "src\\app\\models\\species.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:20:48.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ecosystem.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\services\\ecosystem.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\ecosystem.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\services\\ecosystem.ts",
+              "RelativeToolTip": "src\\app\\services\\ecosystem.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:36:08.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "src\\app\\app.css",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.css",
+              "RelativeToolTip": "src\\app\\app.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T18:03:18.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T16:05:19.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.ts",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\app.config.ts",
+              "RelativeToolTip": "src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-17T15:32:20.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "species-form.css",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\species-form\\species-form.css",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\species-form\\species-form.css",
+              "RelativeToolTip": "src\\app\\components\\species-form\\species-form.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T16:46:33.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "filter.html",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\filter\\filter.html",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.html",
+              "RelativeToolTip": "src\\app\\components\\filter\\filter.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T17:23:00.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "filter.css",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\filter\\filter.css",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\src\\app\\components\\filter\\filter.css",
+              "RelativeToolTip": "src\\app\\components\\filter\\filter.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T18:49:10.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T19:19:05.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\LaboratoriosAngular\\simulador-ecosistema\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\LaboratoriosAngular\\simulador-ecosistema\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T15:32:35.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

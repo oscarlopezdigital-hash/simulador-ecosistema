@@ -1,0 +1,96 @@
+/* Contenedor principal con efecto Glassmorphism */
+.list-container {
+  background-color: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+  margin: 20px auto;
+  width: 95%;
+  max-width: 1100px;
+}
+
+/* Título de la lista */
+.list-title {
+  color: #1b5e20;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Tabla */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: #333;
+  padding: 12px;
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+  text-align: left;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  /* Fondo muy ligero para las celdas */
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* --- SOLUCIÓN AL ERROR DE IMÁGENES GIGANTES --- */
+.species-img {
+  width: 45px !important; /* Tamaño fijo forzado */
+  height: 45px !important; /* Tamaño fijo forzado */
+  object-fit: cover; /* Evita que la imagen se estire feo */
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  display: inline-block;
+  vertical-align: middle;
+  background-color: white; /* Por si la imagen tarda en cargar */
+}
+
+.species-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-weight: 500;
+}
+
+/* --- BOTONES COLORIDOS Y VIBRANTES --- */
+button {
+  padding: 8px 15px;
+  border-radius: 8px;
+  border: none;
+  color: white !important; /* Texto siempre blanco */
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s;
+}
+
+.btn-edit {
+  background: linear-gradient(135deg, #00b4db, #0083b0);
+}
+
+.btn-repro {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.btn-delete {
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+}
+
+button:hover {
+  transform: scale(1.08);
+  filter: brightness(1.1);
+}
+
+/* Alineación de la celda de acciones */
+.actions-cell {
+  white-space: nowrap;
+}
